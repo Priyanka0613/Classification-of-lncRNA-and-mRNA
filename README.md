@@ -1,7 +1,6 @@
 # lncRna-vs-mRna
-classification of lncRna vs mRna by extracting mathematical features
+Classification of lncRna vs mRna by extracting mathematical features
 
-
-database generation and feature extraction are matlab files
-the fasta files are taken from the genebank website
-after feature extraction and converting them to excel used ml code to apply svc model.
+Database generation and feature extraction are MATLAB files.
+The fasta files are taken from the Genebank website
+After feature exraction and converting them to excel using ML code to apply SVC model.
